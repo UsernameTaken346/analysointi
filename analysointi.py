@@ -11,3 +11,10 @@ multiplication = number1 * number2
 
 print(f"{number1} * {number2} = {multiplication}")
 
+addition = number1 + number2
+division = number1 / number2  # Change to float division for accuracy
+subtraction = number1 - number2
+
+print(f"{number1} + {number2} = {addition}")
+print(f"{number1} / {number2} = {division}")
+print(f"{number1} - {number2} = {subtraction}")
