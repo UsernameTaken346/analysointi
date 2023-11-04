@@ -27,3 +27,14 @@ highest_value = max(thrownDiceNumbers)
 print("Highest value in the list:", highest_value)
 
 # harjoitus 3 (Extra)
+
+import random
+
+picked_numbers = set()
+
+while len(picked_numbers) < 5:
+    picked_numbers.add(random.randint(1, 20))
+
+picked_numbers_list = list(picked_numbers)
+
+print("Randomly picked unique numbers:", picked_numbers_list)
