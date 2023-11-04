@@ -1,5 +1,6 @@
 number1 = 5
 number2 = 7
+number3 = 3
 
 
 if number1 == number2:
