@@ -25,3 +25,5 @@ print("Sum of list values:", list_sum)
 
 highest_value = max(thrownDiceNumbers)
 print("Highest value in the list:", highest_value)
+
+# harjoitus 3 (Extra)
