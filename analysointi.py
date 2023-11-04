@@ -18,3 +18,7 @@ subtraction = number1 - number2
 print(f"{number1} + {number2} = {addition}")
 print(f"{number1} / {number2} = {division}")
 print(f"{number1} - {number2} = {subtraction}")
+
+print("Printer App")
+
+print("This app was made by:", creator)
